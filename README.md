@@ -24,17 +24,3 @@ Wrapper so `gradlew` from the command line should download everything you need. 
 
 The use of JBehave in this instance is to provide you with our definition of done for the task.
 Please ensure that you are familiar with our values in the instructions project.  They are important to us.
-
-y
-HHHH 5+5 RROO
-HHHH 3   RRRO
-
-MMMMMMMMMMM 5+5+5=15 YYROOOOOOOO
-MMMM       1+1=2     YYOO
-
-13:17:01
-O
-RROO
-RRRO
-YYROOOOOOOO
-YYOO
