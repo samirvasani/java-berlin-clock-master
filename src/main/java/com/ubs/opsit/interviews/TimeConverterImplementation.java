@@ -70,7 +70,7 @@ public class TimeConverterImplementation implements TimeConverter{
     /**
      * Based on provided input this method forms the pattern
      * @param time it could be either hour or minute
-     * @param timeComponent String format of minute or hour
+     * @param timeComponent String format of minute or hour..
      * @return String
      */
     protected String getLampStatus(Integer time ,String timeComponent) {
